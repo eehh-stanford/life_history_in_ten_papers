@@ -10,7 +10,7 @@ We will approach the study of life history theory from a slightly unusual perspe
 
 - [Coale (1957)](https://doi.org/10.1007/978-3-642-81046-6_19): Renewal Equation ([notes](https://github.com/eehh-stanford/life_history_in_ten_papers/blob/master/Jones-Coale1957-notes.pdf))
 - [Cole (1954)](https://www.jstor.org/stable/2817654): Iteroparity and Cole's Paradox ([notes](https://github.com/eehh-stanford/life_history_in_ten_papers/blob/master/Jones-Cole1954-notes.pdf),[`R` Code](https://github.com/eehh-stanford/life_history_in_ten_papers/blob/master/cole_calcs.R))
-- [Charnov & Schaffer (1973)](http://www.jstor.org/stable/2459713): Resolution of Cole's Paradox
+- [Charnov & Schaffer (1973)](http://www.jstor.org/stable/2459713): Resolution of Cole's Paradox ([notes](https://github.com/eehh-stanford/life_history_in_ten_papers/blob/master/Jones-Charnov_Schaffer1973-notes.pdf))
 - [Gadgil & Bossert (1970)](https://www.jstor.org/stable/2459070): Reproductive Effort
 - [Schaffer (1974)](https://www.jstor.org/stable/2459608): The Balance Between Juvenile and Adult Mortality
 - [Smith & Fretwell (1974)](https://www.jstor.org/stable/2459681): Optimal Clutch Size
