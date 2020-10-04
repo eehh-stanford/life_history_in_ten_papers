@@ -18,3 +18,7 @@ We will approach the study of life history theory from a slightly unusual perspe
 - [Lewontin & Cohen (1969)](https://www.jstor.org/stable/59357): Growth in Random Environments
 - [Tuljapurkar & Orzack (1980)](https://doi.org/10.1016/0040-5809(80)90057-X): Fitness in Random Environments
 - [Charnov (1991)](https://www.jstor.org/stable/2355948): Assembly Rules of Mammalian Life Histories
+
+# Supplementary Material
+- [The Life-Cycle Graph](https://github.com/eehh-stanford/life_history_in_ten_papers/blob/master/Jones-life-cycle-notes.pdf)
+- [Notes on Risk](https://github.com/eehh-stanford/life_history_in_ten_papers/blob/master/Jones-risk_notes.pdf)
