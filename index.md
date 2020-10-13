@@ -19,6 +19,9 @@ We will approach the study of life history theory from a slightly unusual perspe
 - [Tuljapurkar & Orzack (1980)](https://doi.org/10.1016/0040-5809(80)90057-X): Fitness in Random Environments
 - [Charnov (1991)](https://www.jstor.org/stable/2355948): Assembly Rules of Mammalian Life Histories
 
-# Supplementary Material
+# Supplementary Notes
 - [The Life-Cycle Graph](https://github.com/eehh-stanford/life_history_in_ten_papers/blob/master/Jones-life-cycle-notes.pdf)
 - [Notes on Risk](https://github.com/eehh-stanford/life_history_in_ten_papers/blob/master/Jones-risk_notes.pdf)
+
+# Supplementary Videos
+- [Deriving Reproductive Value](https://stanford.zoom.us/rec/share/UyvkjzK36kH5HY0Tjfc4tcJrCb609PGY1TK9pgQZQzr2oG-MDthSBr4tE45SWUF5.Jm_2o7ctUEaT4wWm?startTime=1602281579000)
