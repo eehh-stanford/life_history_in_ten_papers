@@ -25,3 +25,4 @@ We will approach the study of life history theory from a slightly unusual perspe
 
 # Supplementary Videos
 - [Deriving Reproductive Value](https://stanford.zoom.us/rec/share/UyvkjzK36kH5HY0Tjfc4tcJrCb609PGY1TK9pgQZQzr2oG-MDthSBr4tE45SWUF5.Jm_2o7ctUEaT4wWm?startTime=1602281579000)
+
