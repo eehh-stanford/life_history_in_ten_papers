@@ -12,7 +12,7 @@ We will approach the study of life history theory from a slightly unusual perspe
 - [Cole (1954)](https://www.jstor.org/stable/2817654): Iteroparity and Cole's Paradox ([notes](https://github.com/eehh-stanford/life_history_in_ten_papers/blob/master/Jones-Cole1954-notes.pdf),[`R` Code](https://github.com/eehh-stanford/life_history_in_ten_papers/blob/master/cole_calcs.R))
 - [Charnov & Schaffer (1973)](http://www.jstor.org/stable/2459713): Resolution of Cole's Paradox ([notes](https://github.com/eehh-stanford/life_history_in_ten_papers/blob/master/Jones-Charnov_Schaffer1973-notes.pdf))
 - [Gadgil & Bossert (1970)](https://www.jstor.org/stable/2459070): Reproductive Effort ([notes](https://github.com/eehh-stanford/life_history_in_ten_papers/blob/master/Jones-Gadgil_Bossert1970-notes.pdf))
-- [Schaffer (1974)](https://www.jstor.org/stable/2459608): The Balance Between Juvenile and Adult Mortality
+- [Schaffer (1974)](https://www.jstor.org/stable/2459608): The Balance Between Juvenile and Adult Mortality ([notes](https://github.com/eehh-stanford/life_history_in_ten_papers/blob/master/Jones-Schaffer1974-notes.pdf))
 - [Smith & Fretwell (1974)](https://www.jstor.org/stable/2459681): Optimal Clutch Size
 - [Hamilton (1966)](http://dx.doi.org/10.1016/0022-5193(66)90184-6): The Moulding of Senescence by Natural Selection
 - [Lewontin & Cohen (1969)](https://www.jstor.org/stable/59357): Growth in Random Environments
