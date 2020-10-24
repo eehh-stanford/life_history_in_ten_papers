@@ -13,7 +13,7 @@ We will approach the study of life history theory from a slightly unusual perspe
 - [Charnov & Schaffer (1973)](http://www.jstor.org/stable/2459713): Resolution of Cole's Paradox ([notes](https://github.com/eehh-stanford/life_history_in_ten_papers/blob/master/Jones-Charnov_Schaffer1973-notes.pdf))
 - [Gadgil & Bossert (1970)](https://www.jstor.org/stable/2459070): Reproductive Effort ([notes](https://github.com/eehh-stanford/life_history_in_ten_papers/blob/master/Jones-Gadgil_Bossert1970-notes.pdf))
 - [Schaffer (1974)](https://www.jstor.org/stable/2459608): The Balance Between Juvenile and Adult Mortality ([notes](https://github.com/eehh-stanford/life_history_in_ten_papers/blob/master/Jones-Schaffer1974-notes.pdf))
-- [Smith & Fretwell (1974)](https://www.jstor.org/stable/2459681): Optimal Clutch Size
+- [Smith & Fretwell (1974)](https://www.jstor.org/stable/2459681): Optimal Clutch Size ([notes](https://github.com/eehh-stanford/life_history_in_ten_papers/blob/master/Jones-Smith_Fretwell1974-notes.pdf))
 - [Hamilton (1966)](http://dx.doi.org/10.1016/0022-5193(66)90184-6): The Moulding of Senescence by Natural Selection
 - [Lewontin & Cohen (1969)](https://www.jstor.org/stable/59357): Growth in Random Environments
 - [Tuljapurkar & Orzack (1980)](https://doi.org/10.1016/0040-5809(80)90057-X): Fitness in Random Environments
