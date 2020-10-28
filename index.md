@@ -23,6 +23,7 @@ We will approach the study of life history theory from a slightly unusual perspe
 - [The Life-Cycle Graph](https://github.com/eehh-stanford/life_history_in_ten_papers/blob/master/Jones-life-cycle-notes.pdf)
 - [Notes on Risk](https://github.com/eehh-stanford/life_history_in_ten_papers/blob/master/Jones-risk_notes.pdf)
 - [Some Very Preliminary Notes on Fitness Sets](https://github.com/eehh-stanford/life_history_in_ten_papers/blob/master/Jones-fitness_sets-notes.pdf). These notes are very rough and quite incomplete and should be updated at some point (hopefully) soon.
+- [Some Notes on Making Theoretical Plots in R](https://github.com/eehh-stanford/life_history_in_ten_papers/blob/master/Jones-plotting_notes.pdf). This will be an evolving set notes that provides examples of making scientific figures in R.
 
 # Supplementary Videos
 - [Deriving Reproductive Value](https://stanford.zoom.us/rec/share/UyvkjzK36kH5HY0Tjfc4tcJrCb609PGY1TK9pgQZQzr2oG-MDthSBr4tE45SWUF5.Jm_2o7ctUEaT4wWm?startTime=1602281579000)
