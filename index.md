@@ -14,7 +14,7 @@ We will approach the study of life history theory from a slightly unusual perspe
 - [Gadgil & Bossert (1970)](https://www.jstor.org/stable/2459070): Reproductive Effort ([notes](https://github.com/eehh-stanford/life_history_in_ten_papers/blob/master/Jones-Gadgil_Bossert1970-notes.pdf))
 - [Schaffer (1974)](https://www.jstor.org/stable/2459608): The Balance Between Juvenile and Adult Mortality ([notes](https://github.com/eehh-stanford/life_history_in_ten_papers/blob/master/Jones-Schaffer1974-notes.pdf))
 - [Smith & Fretwell (1974)](https://www.jstor.org/stable/2459681): Optimal Clutch Size ([notes](https://github.com/eehh-stanford/life_history_in_ten_papers/blob/master/Jones-Smith_Fretwell1974-notes.pdf))
-- [Hamilton (1966)](http://dx.doi.org/10.1016/0022-5193(66)90184-6): The Moulding of Senescence by Natural Selection ([notes](https://github.com/eehh-stanford/life_history_in_ten_papers/blob/master/Jones-Hamilton1966-notes.pdf),[`R` Code](https://raw.githubusercontent.com/eehh-stanford/life_history_in_ten_papers/master/hamilton1966-notes.R))
+- [Hamilton (1966)](http://dx.doi.org/10.1016/0022-5193(66)90184-6): The Moulding of Senescence by Natural Selection ([notes](https://github.com/eehh-stanford/life_history_in_ten_papers/blob/master/Jones-Hamilton1966-notes.pdf),[`R` Code](https://raw.githubusercontent.com/eehh-stanford/life_history_in_ten_papers/master/hamilton1966-notes.R),[Notes on Fitness Sensitivities](https://github.com/eehh-stanford/life_history_in_ten_papers/blob/master/Jones-fitness-sens-notes.pdf))
 - [Lewontin & Cohen (1969)](https://www.jstor.org/stable/59357): Growth in Random Environments
 - [Tuljapurkar & Orzack (1980)](https://doi.org/10.1016/0040-5809(80)90057-X): Fitness in Random Environments
 - [Charnov (1991)](https://www.jstor.org/stable/2355948): Assembly Rules of Mammalian Life Histories
@@ -24,6 +24,7 @@ We will approach the study of life history theory from a slightly unusual perspe
 - [Notes on Risk](https://github.com/eehh-stanford/life_history_in_ten_papers/blob/master/Jones-risk_notes.pdf)
 - [Some Very Preliminary Notes on Fitness Sets](https://github.com/eehh-stanford/life_history_in_ten_papers/blob/master/Jones-fitness_sets-notes.pdf). These notes are very rough and quite incomplete and should be updated at some point (hopefully) soon.
 - [Some Notes on Making Theoretical Plots in R](https://github.com/eehh-stanford/life_history_in_ten_papers/blob/master/Jones-plotting_notes.pdf). This will be an evolving set notes that provides examples of making scientific figures in `R`.
+- [Notes on Fitness Sensitivities](https://github.com/eehh-stanford/life_history_in_ten_papers/blob/master/Jones-fitness-sens-notes.pdf). Quick introduction to matrix population models and derivation of fitness sensitivities.
 
 # Supplementary Videos
 - [Deriving Reproductive Value](https://stanford.zoom.us/rec/share/UyvkjzK36kH5HY0Tjfc4tcJrCb609PGY1TK9pgQZQzr2oG-MDthSBr4tE45SWUF5.Jm_2o7ctUEaT4wWm?startTime=1602281579000)
