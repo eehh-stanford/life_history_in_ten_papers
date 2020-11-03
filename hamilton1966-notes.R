@@ -13,7 +13,7 @@ ea <- eigen.analysis(A)
 ## we can calculate the annual growth rate
 log(ea$lam)/2.5
 eee <- ea$elas
-plot(eee,ylab="Elasticity")
+plot(eee,ylab="Elasticity", peryear=2.5)
 legend("topright", c("survival","fertility"),lwd=2, col=c("black","grey"))
 
 
