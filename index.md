@@ -17,7 +17,7 @@ We will approach the study of life history theory from a slightly unusual perspe
 - [Hamilton (1966)](http://dx.doi.org/10.1016/0022-5193(66)90184-6): The Moulding of Senescence by Natural Selection ([notes](https://github.com/eehh-stanford/life_history_in_ten_papers/blob/master/Jones-Hamilton1966-notes.pdf),[`R` Code](https://raw.githubusercontent.com/eehh-stanford/life_history_in_ten_papers/master/hamilton1966-notes.R), [Notes on Fitness Sensitivities](https://github.com/eehh-stanford/life_history_in_ten_papers/blob/master/Jones-fitness-sens-notes.pdf))
 - [Lewontin & Cohen (1969)](https://www.jstor.org/stable/59357): Growth in Random Environments ([notes](https://github.com/eehh-stanford/life_history_in_ten_papers/blob/master/Jones-Lewontin_Cohen1969-notes.pdf))
 - [Tuljapurkar & Orzack (1980)](https://doi.org/10.1016/0040-5809(80)90057-X): Fitness in Random Environments ([notes](https://github.com/eehh-stanford/life_history_in_ten_papers/blob/master/Jones-Tulja_Orzack1980-notes.pdf))
-- [Charnov (1991)](https://www.jstor.org/stable/2355948): Assembly Rules of Mammalian Life Histories
+- [Charnov (1991)](https://www.jstor.org/stable/2355948): Assembly Rules of Mammalian Life Histories ([notes](https://github.com/eehh-stanford/life_history_in_ten_papers/blob/master/Jones-Charnov1991-notes.pdf))
 
 # Supplementary Notes
 - [The Life-Cycle Graph](https://github.com/eehh-stanford/life_history_in_ten_papers/blob/master/Jones-life-cycle-notes.pdf)
