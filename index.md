@@ -25,6 +25,7 @@ We will approach the study of life history theory from a slightly unusual perspe
 - [Some Very Preliminary Notes on Fitness Sets](https://github.com/eehh-stanford/life_history_in_ten_papers/blob/master/Jones-fitness_sets-notes.pdf). These notes are very rough and quite incomplete and should be updated at some point (hopefully) soon.
 - [Some Notes on Making Theoretical Plots in R](https://github.com/eehh-stanford/life_history_in_ten_papers/blob/master/Jones-plotting_notes.pdf). This will be an evolving set notes that provides examples of making scientific figures in `R`.
 - [Notes on Fitness Sensitivities](https://github.com/eehh-stanford/life_history_in_ten_papers/blob/master/Jones-fitness-sens-notes.pdf). Quick introduction to matrix population models and derivation of fitness sensitivities.
+- ["Overheads" from videos](https://github.com/eehh-stanford/life_history_in_ten_papers/blob/master/Jones_life_history_overheads.pdf). All the doodles from the videos!
 
 # Supplementary Videos
 - [Deriving Reproductive Value](https://stanford.zoom.us/rec/share/UyvkjzK36kH5HY0Tjfc4tcJrCb609PGY1TK9pgQZQzr2oG-MDthSBr4tE45SWUF5.Jm_2o7ctUEaT4wWm?startTime=1602281579000)
